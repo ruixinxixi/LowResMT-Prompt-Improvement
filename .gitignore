@@ -1,0 +1,15 @@
+# 忽略训练生成的模型文件夹
+original_model/
+improved1_model/
+improved2_model/
+improved3_model/
+
+# 忽略预训练模型文件夹
+opus-mt-en-fr/
+
+# 忽略大数据集文件
+links.csv
+sentences.csv
+
+# 忽略语义模型文件夹
+all-MiniLM-L6-v2/
